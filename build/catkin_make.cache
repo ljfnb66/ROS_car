@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/feifei/code/rosPrj/catkin_urdf_gazebo/devel -DCMAKE_INSTALL_PREFIX=/home/feifei/code/rosPrj/catkin_urdf_gazebo/install -G Unix Makefiles

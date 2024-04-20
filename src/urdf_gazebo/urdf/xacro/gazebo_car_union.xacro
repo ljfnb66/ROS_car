@@ -1,0 +1,6 @@
+<robot name="my_car_camera" xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:include filename="gazebo_head.xacro" />
+    <xacro:include filename="gazebo_car.xacro" />
+    <xacro:include filename="gazebo_laser.xacro" />
+    <xacro:include filename="gazebo_camera.xacro" />
+</robot>

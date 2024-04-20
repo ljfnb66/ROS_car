@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/feifei/code/rosPrj/catkin_urdf_gazebo/install/setup.sh
