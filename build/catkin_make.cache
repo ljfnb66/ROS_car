@@ -1,2 +1,2 @@
 jubot_demo
--DCATKIN_DEVEL_PREFIX=/home/feifei/code/rosPrj/catkin_ws01/devel -DCMAKE_INSTALL_PREFIX=/home/feifei/code/rosPrj/catkin_ws01/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/feifei/code/rosPrj/ROS_car/devel -DCMAKE_INSTALL_PREFIX=/home/feifei/code/rosPrj/ROS_car/install -G Unix Makefiles
